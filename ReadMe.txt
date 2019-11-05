@@ -1,4 +1,4 @@
-Final assignment of the Games Concepts module in year 1 (2018/2019). Made with TL Engine and C++. Achieved 120 points out of 100 if I recall correctly. 8)
+Final assignment of the Games Concepts module in year 1 (2018/2019). Created with TL Engine (http://gamesnorthwest.net/resources/tl_engine/downloads.html) and C++. 
 
 Features:
   Hover car movement (thrust and drag, tilting and bobbing)
@@ -15,5 +15,3 @@ Controls:
   Space - boost
   Arrows - move camera
   123 - switch between camera modes/reset camera position and orientation
-  
-If the project doesn't start, it can be easily recreated by making a new project with TL Engine (http://gamesnorthwest.net/resources/tl_engine/downloads.html), replacing the cpp file's contents and putting the media folder and the level.txt file inside that new project. The project solution might also need to be retargetted to version 10.0.17134.0 of the Windows SDK.
